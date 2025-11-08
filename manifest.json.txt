@@ -1,0 +1,15 @@
+{
+  "name": "Restaurant Fortune Wheel",
+  "short_name": "Food Wheel",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffcc70",
+  "theme_color": "#ffcc70",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2921/2921822.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
